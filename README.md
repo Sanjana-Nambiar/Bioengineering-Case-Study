@@ -100,6 +100,7 @@ The inputs are:
 - a04.txt file
 - Time
 - ECG Data
+
 The outputs are:
 - Graph of two seconds of data before and after resampling
 - Graph of the signal before and after filtering for two seconds of data
