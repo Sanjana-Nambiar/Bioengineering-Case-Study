@@ -58,16 +58,19 @@ a01.hea
 2. number of datapoints = 2957000
 3. number of bits per value = 16
 4. conversion rate to voltage = 200
+
 a02.hea
 1. sampling frequency = 100
 2. number of datapoints = 3182000
 3. number of bits per value = 16
 4. conversion rate to voltage = 200
+
 a03.hea
 1. sampling frequency = 100
 2. number of datapoints = 3135000
 3. number of bits per value = 16
 4. conversion rate to voltage = 200
+
 a04.hea
 1. sampling frequency= 100
 2. number of datapoints = 2980000
